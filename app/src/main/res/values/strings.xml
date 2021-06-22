@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_login">Login</string>
+    <string name="title_orders">Orders</string>
+    <string name="title_add_orders">Create New</string>
+
+</resources>
